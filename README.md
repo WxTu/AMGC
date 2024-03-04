@@ -1,7 +1,7 @@
 # AMGC
 AAAI 2024-Attribute-Missing Graph Clustering Network
 
-The source code will be released soon!
+The complete source code will be released soon!
 
 ## Citation & License
 If you use this code for your research, please cite our paper.
